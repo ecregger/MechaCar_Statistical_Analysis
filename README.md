@@ -11,7 +11,7 @@
 ## Summary Statistics on Suspension Coils
 - Overall the 100 PSI variance limit is not an issue for the cars, however Manufacturing Lot 3 is well above that limit at over 170. 
 
-Total Summary Stats: LINK TO IMG
+<h2>Total Summary Stats:</h2> LINK TO IMG
 Lot Summary Stats: LINK TO IMG
 
 ## T-Tests on Suspension Coils
