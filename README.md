@@ -11,16 +11,16 @@
 ## Summary Statistics on Suspension Coils
 - Overall the 100 PSI variance limit is not an issue for the cars, however Manufacturing Lot 3 is well above that limit at over 170. 
 
-<h2>Total Summary Stats:</h2> LINK TO IMG
-Lot Summary Stats: LINK TO IMG
+<b>Total Summary Stats:</b> https://github.com/ecregger/MechaCar_Statistical_Analysis/blob/main/Images/Total_Summary.png </br>
+<b>Lot Summary Stats:</b> https://github.com/ecregger/MechaCar_Statistical_Analysis/blob/main/Images/Lot_Summary.png 
 
 ## T-Tests on Suspension Coils
 - In total, the manufacturing lots did not produce any significant difference in PSI. However, when the lots were broken out and tested individually, Lot2 scored a p-value of .0005911, which means there is a statistical difference from the population mean. 
 
-Total Test: 
-Lot1 Test:
-Lot2 Test:
-Lot3 Test:
+<b>Total Test:</b> https://github.com/ecregger/MechaCar_Statistical_Analysis/blob/main/Images/t_test_ALL.png </br>
+<b>Lot1 Test:</b> https://github.com/ecregger/MechaCar_Statistical_Analysis/blob/main/Images/t_test_Lot1.png </br>
+<b>Lot2 Test:</b> https://github.com/ecregger/MechaCar_Statistical_Analysis/blob/main/Images/t_test_Lot2.png </br>
+<b>Lot3 Test:</b> https://github.com/ecregger/MechaCar_Statistical_Analysis/blob/main/Images/t_test_Lot3.png </br>
 
 ## Study Design: MechaCar vs Competition
 - Metrics: MPG (city and highway), cost to build, MSRP, hp
